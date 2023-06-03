@@ -1,3 +1,7 @@
+# About
+
+This project is under the React section of the Odin Project where the goal was to use multiple routes and create a shopping cart. You can visit the website at: https://shobhit-nagpal.github.io/shop/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
